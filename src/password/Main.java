@@ -1,9 +1,9 @@
-package br.klebert.password;
+package password;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Principal {
+public class Main {
 
 	public static final String PASSWORD = "Senha123*";
 	public static final String UPPER_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVYWXZ";
